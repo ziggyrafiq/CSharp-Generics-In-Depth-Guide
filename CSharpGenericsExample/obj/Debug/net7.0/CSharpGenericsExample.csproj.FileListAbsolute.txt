@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\bin\Debug\net7.0\CSharpGenericsExample.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\bin\Debug\net7.0\CSharpGenericsExample.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\bin\Debug\net7.0\CSharpGenericsExample.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\bin\Debug\net7.0\CSharpGenericsExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\bin\Debug\net7.0\CSharpGenericsExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\refint\CSharpGenericsExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\ref\CSharpGenericsExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\bin\Debug\net7.0\CSharpGenericsExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\bin\Debug\net7.0\CSharpGenericsExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\bin\Debug\net7.0\CSharpGenericsExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\bin\Debug\net7.0\CSharpGenericsExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\bin\Debug\net7.0\CSharpGenericsExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\refint\CSharpGenericsExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\CSharpGenericsExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CSharpGenericsExample\obj\Debug\net7.0\ref\CSharpGenericsExample.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GenericAdvantages/1.0.0": {
+        "runtime": {
+          "GenericAdvantages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericAdvantages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

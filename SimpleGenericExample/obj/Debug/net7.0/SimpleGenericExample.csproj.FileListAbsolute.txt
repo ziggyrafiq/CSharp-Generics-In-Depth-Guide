@@ -1,0 +1,15 @@
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\bin\Debug\net7.0\SimpleGenericExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\bin\Debug\net7.0\SimpleGenericExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\bin\Debug\net7.0\SimpleGenericExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\bin\Debug\net7.0\SimpleGenericExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\bin\Debug\net7.0\SimpleGenericExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\obj\Debug\net7.0\SimpleGenericExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\obj\Debug\net7.0\SimpleGenericExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\obj\Debug\net7.0\SimpleGenericExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\obj\Debug\net7.0\SimpleGenericExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\obj\Debug\net7.0\SimpleGenericExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\obj\Debug\net7.0\SimpleGenericExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\obj\Debug\net7.0\refint\SimpleGenericExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\obj\Debug\net7.0\SimpleGenericExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\obj\Debug\net7.0\SimpleGenericExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\SimpleGenericExample\obj\Debug\net7.0\ref\SimpleGenericExample.dll

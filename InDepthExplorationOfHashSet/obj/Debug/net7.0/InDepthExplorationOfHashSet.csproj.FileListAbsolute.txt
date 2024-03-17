@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\bin\Debug\net7.0\InDepthExplorationOfHashSet.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\bin\Debug\net7.0\InDepthExplorationOfHashSet.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\bin\Debug\net7.0\InDepthExplorationOfHashSet.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\bin\Debug\net7.0\InDepthExplorationOfHashSet.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\bin\Debug\net7.0\InDepthExplorationOfHashSet.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\refint\InDepthExplorationOfHashSet.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\ref\InDepthExplorationOfHashSet.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\bin\Debug\net7.0\InDepthExplorationOfHashSet.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\bin\Debug\net7.0\InDepthExplorationOfHashSet.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\bin\Debug\net7.0\InDepthExplorationOfHashSet.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\bin\Debug\net7.0\InDepthExplorationOfHashSet.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\bin\Debug\net7.0\InDepthExplorationOfHashSet.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\refint\InDepthExplorationOfHashSet.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\InDepthExplorationOfHashSet.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfHashSet\obj\Debug\net7.0\ref\InDepthExplorationOfHashSet.dll

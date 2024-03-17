@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\bin\Debug\net7.0\EventHandlingCovarianceExample.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\bin\Debug\net7.0\EventHandlingCovarianceExample.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\bin\Debug\net7.0\EventHandlingCovarianceExample.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\bin\Debug\net7.0\EventHandlingCovarianceExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\bin\Debug\net7.0\EventHandlingCovarianceExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\refint\EventHandlingCovarianceExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\ref\EventHandlingCovarianceExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\bin\Debug\net7.0\EventHandlingCovarianceExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\bin\Debug\net7.0\EventHandlingCovarianceExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\bin\Debug\net7.0\EventHandlingCovarianceExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\bin\Debug\net7.0\EventHandlingCovarianceExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\bin\Debug\net7.0\EventHandlingCovarianceExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\refint\EventHandlingCovarianceExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\EventHandlingCovarianceExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\EventHandlingCovarianceExample\obj\Debug\net7.0\ref\EventHandlingCovarianceExample.dll

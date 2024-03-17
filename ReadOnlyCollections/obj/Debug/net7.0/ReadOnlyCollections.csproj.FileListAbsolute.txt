@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\bin\Debug\net7.0\ReadOnlyCollections.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\bin\Debug\net7.0\ReadOnlyCollections.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\bin\Debug\net7.0\ReadOnlyCollections.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\bin\Debug\net7.0\ReadOnlyCollections.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\bin\Debug\net7.0\ReadOnlyCollections.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\refint\ReadOnlyCollections.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ref\ReadOnlyCollections.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\bin\Debug\net7.0\ReadOnlyCollections.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\bin\Debug\net7.0\ReadOnlyCollections.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\bin\Debug\net7.0\ReadOnlyCollections.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\bin\Debug\net7.0\ReadOnlyCollections.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\bin\Debug\net7.0\ReadOnlyCollections.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\refint\ReadOnlyCollections.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ReadOnlyCollections.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyCollections\obj\Debug\net7.0\ref\ReadOnlyCollections.dll

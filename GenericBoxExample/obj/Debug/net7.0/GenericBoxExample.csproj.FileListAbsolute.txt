@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\bin\Debug\net7.0\GenericBoxExample.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\bin\Debug\net7.0\GenericBoxExample.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\bin\Debug\net7.0\GenericBoxExample.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\bin\Debug\net7.0\GenericBoxExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\bin\Debug\net7.0\GenericBoxExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\refint\GenericBoxExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\ref\GenericBoxExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\bin\Debug\net7.0\GenericBoxExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\bin\Debug\net7.0\GenericBoxExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\bin\Debug\net7.0\GenericBoxExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\bin\Debug\net7.0\GenericBoxExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\bin\Debug\net7.0\GenericBoxExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\refint\GenericBoxExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\GenericBoxExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericBoxExample\obj\Debug\net7.0\ref\GenericBoxExample.dll

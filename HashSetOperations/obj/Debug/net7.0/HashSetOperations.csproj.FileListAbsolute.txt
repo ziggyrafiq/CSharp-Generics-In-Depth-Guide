@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\bin\Debug\net7.0\HashSetOperations.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\bin\Debug\net7.0\HashSetOperations.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\bin\Debug\net7.0\HashSetOperations.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\bin\Debug\net7.0\HashSetOperations.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\bin\Debug\net7.0\HashSetOperations.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\refint\HashSetOperations.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\ref\HashSetOperations.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\bin\Debug\net7.0\HashSetOperations.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\bin\Debug\net7.0\HashSetOperations.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\bin\Debug\net7.0\HashSetOperations.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\bin\Debug\net7.0\HashSetOperations.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\bin\Debug\net7.0\HashSetOperations.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\refint\HashSetOperations.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\HashSetOperations.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\HashSetOperations\obj\Debug\net7.0\ref\HashSetOperations.dll

@@ -1,0 +1,15 @@
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\bin\Debug\net7.0\ListProcessorExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\bin\Debug\net7.0\ListProcessorExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\bin\Debug\net7.0\ListProcessorExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\bin\Debug\net7.0\ListProcessorExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\bin\Debug\net7.0\ListProcessorExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\obj\Debug\net7.0\ListProcessorExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\obj\Debug\net7.0\ListProcessorExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\obj\Debug\net7.0\ListProcessorExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\obj\Debug\net7.0\ListProcessorExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\obj\Debug\net7.0\ListProcessorExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\obj\Debug\net7.0\ListProcessorExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\obj\Debug\net7.0\refint\ListProcessorExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\obj\Debug\net7.0\ListProcessorExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\obj\Debug\net7.0\ListProcessorExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListProcessorExample\obj\Debug\net7.0\ref\ListProcessorExample.dll

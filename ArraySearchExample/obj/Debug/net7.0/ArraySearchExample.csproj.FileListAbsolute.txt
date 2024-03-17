@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\bin\Debug\net7.0\ArraySearchExample.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\bin\Debug\net7.0\ArraySearchExample.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\bin\Debug\net7.0\ArraySearchExample.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\bin\Debug\net7.0\ArraySearchExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\bin\Debug\net7.0\ArraySearchExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\refint\ArraySearchExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ref\ArraySearchExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\bin\Debug\net7.0\ArraySearchExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\bin\Debug\net7.0\ArraySearchExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\bin\Debug\net7.0\ArraySearchExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\bin\Debug\net7.0\ArraySearchExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\bin\Debug\net7.0\ArraySearchExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\refint\ArraySearchExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ArraySearchExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ArraySearchExample\obj\Debug\net7.0\ref\ArraySearchExample.dll

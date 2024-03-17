@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\bin\Debug\net7.0\StructuredCalculatorV1.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\bin\Debug\net7.0\StructuredCalculatorV1.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\bin\Debug\net7.0\StructuredCalculatorV1.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\bin\Debug\net7.0\StructuredCalculatorV1.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\bin\Debug\net7.0\StructuredCalculatorV1.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\refint\StructuredCalculatorV1.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\ref\StructuredCalculatorV1.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\bin\Debug\net7.0\StructuredCalculatorV1.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\bin\Debug\net7.0\StructuredCalculatorV1.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\bin\Debug\net7.0\StructuredCalculatorV1.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\bin\Debug\net7.0\StructuredCalculatorV1.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\bin\Debug\net7.0\StructuredCalculatorV1.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\refint\StructuredCalculatorV1.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\StructuredCalculatorV1.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\StructuredCalculatorV1\obj\Debug\net7.0\ref\StructuredCalculatorV1.dll

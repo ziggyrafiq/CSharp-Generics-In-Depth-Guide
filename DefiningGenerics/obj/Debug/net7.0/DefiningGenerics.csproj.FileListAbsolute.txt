@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\bin\Debug\net7.0\DefiningGenerics.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\bin\Debug\net7.0\DefiningGenerics.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\bin\Debug\net7.0\DefiningGenerics.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\bin\Debug\net7.0\DefiningGenerics.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\bin\Debug\net7.0\DefiningGenerics.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\refint\DefiningGenerics.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\ref\DefiningGenerics.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\bin\Debug\net7.0\DefiningGenerics.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\bin\Debug\net7.0\DefiningGenerics.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\bin\Debug\net7.0\DefiningGenerics.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\bin\Debug\net7.0\DefiningGenerics.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\bin\Debug\net7.0\DefiningGenerics.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\refint\DefiningGenerics.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\DefiningGenerics.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DefiningGenerics\obj\Debug\net7.0\ref\DefiningGenerics.dll

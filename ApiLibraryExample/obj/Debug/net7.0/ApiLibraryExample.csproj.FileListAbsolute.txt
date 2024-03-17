@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\bin\Debug\net7.0\ApiLibraryExample.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\bin\Debug\net7.0\ApiLibraryExample.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\bin\Debug\net7.0\ApiLibraryExample.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\bin\Debug\net7.0\ApiLibraryExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\bin\Debug\net7.0\ApiLibraryExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\refint\ApiLibraryExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ref\ApiLibraryExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\bin\Debug\net7.0\ApiLibraryExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\bin\Debug\net7.0\ApiLibraryExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\bin\Debug\net7.0\ApiLibraryExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\bin\Debug\net7.0\ApiLibraryExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\bin\Debug\net7.0\ApiLibraryExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\refint\ApiLibraryExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ApiLibraryExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ApiLibraryExample\obj\Debug\net7.0\ref\ApiLibraryExample.dll

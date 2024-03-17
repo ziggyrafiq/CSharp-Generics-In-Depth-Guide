@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\bin\Debug\net7.0\InDepthExplorationOfDictionary.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\bin\Debug\net7.0\InDepthExplorationOfDictionary.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\bin\Debug\net7.0\InDepthExplorationOfDictionary.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\bin\Debug\net7.0\InDepthExplorationOfDictionary.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\bin\Debug\net7.0\InDepthExplorationOfDictionary.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\refint\InDepthExplorationOfDictionary.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\ref\InDepthExplorationOfDictionary.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\bin\Debug\net7.0\InDepthExplorationOfDictionary.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\bin\Debug\net7.0\InDepthExplorationOfDictionary.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\bin\Debug\net7.0\InDepthExplorationOfDictionary.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\bin\Debug\net7.0\InDepthExplorationOfDictionary.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\bin\Debug\net7.0\InDepthExplorationOfDictionary.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\refint\InDepthExplorationOfDictionary.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\InDepthExplorationOfDictionary.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfDictionary\obj\Debug\net7.0\ref\InDepthExplorationOfDictionary.dll

@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\bin\Debug\net7.0\LegacyRepositoryExample.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\bin\Debug\net7.0\LegacyRepositoryExample.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\bin\Debug\net7.0\LegacyRepositoryExample.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\bin\Debug\net7.0\LegacyRepositoryExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\bin\Debug\net7.0\LegacyRepositoryExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\refint\LegacyRepositoryExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\ref\LegacyRepositoryExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\bin\Debug\net7.0\LegacyRepositoryExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\bin\Debug\net7.0\LegacyRepositoryExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\bin\Debug\net7.0\LegacyRepositoryExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\bin\Debug\net7.0\LegacyRepositoryExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\bin\Debug\net7.0\LegacyRepositoryExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\refint\LegacyRepositoryExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\LegacyRepositoryExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\LegacyRepositoryExample\obj\Debug\net7.0\ref\LegacyRepositoryExample.dll

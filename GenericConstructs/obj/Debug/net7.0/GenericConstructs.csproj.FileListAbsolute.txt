@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\bin\Debug\net7.0\GenericConstructs.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\bin\Debug\net7.0\GenericConstructs.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\bin\Debug\net7.0\GenericConstructs.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\bin\Debug\net7.0\GenericConstructs.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\bin\Debug\net7.0\GenericConstructs.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\refint\GenericConstructs.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\ref\GenericConstructs.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\bin\Debug\net7.0\GenericConstructs.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\bin\Debug\net7.0\GenericConstructs.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\bin\Debug\net7.0\GenericConstructs.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\bin\Debug\net7.0\GenericConstructs.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\bin\Debug\net7.0\GenericConstructs.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\refint\GenericConstructs.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\GenericConstructs.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericConstructs\obj\Debug\net7.0\ref\GenericConstructs.dll

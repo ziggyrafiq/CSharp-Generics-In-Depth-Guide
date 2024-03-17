@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\bin\Debug\net7.0\GenericAdvantages.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\bin\Debug\net7.0\GenericAdvantages.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\bin\Debug\net7.0\GenericAdvantages.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\bin\Debug\net7.0\GenericAdvantages.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\bin\Debug\net7.0\GenericAdvantages.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\refint\GenericAdvantages.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\ref\GenericAdvantages.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\bin\Debug\net7.0\GenericAdvantages.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\bin\Debug\net7.0\GenericAdvantages.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\bin\Debug\net7.0\GenericAdvantages.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\bin\Debug\net7.0\GenericAdvantages.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\bin\Debug\net7.0\GenericAdvantages.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\refint\GenericAdvantages.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\GenericAdvantages.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericAdvantagesDemo\obj\Debug\net7.0\ref\GenericAdvantages.dll

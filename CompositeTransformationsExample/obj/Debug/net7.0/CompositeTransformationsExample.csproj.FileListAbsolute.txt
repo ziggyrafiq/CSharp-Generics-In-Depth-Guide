@@ -1,0 +1,15 @@
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\bin\Debug\net7.0\CompositeTransformationsExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\bin\Debug\net7.0\CompositeTransformationsExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\bin\Debug\net7.0\CompositeTransformationsExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\bin\Debug\net7.0\CompositeTransformationsExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\bin\Debug\net7.0\CompositeTransformationsExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\obj\Debug\net7.0\CompositeTransformationsExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\obj\Debug\net7.0\CompositeTransformationsExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\obj\Debug\net7.0\CompositeTransformationsExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\obj\Debug\net7.0\CompositeTransformationsExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\obj\Debug\net7.0\CompositeTransformationsExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\obj\Debug\net7.0\CompositeTransformationsExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\obj\Debug\net7.0\refint\CompositeTransformationsExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\obj\Debug\net7.0\CompositeTransformationsExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\obj\Debug\net7.0\CompositeTransformationsExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CompositeTransformationsExample\obj\Debug\net7.0\ref\CompositeTransformationsExample.dll

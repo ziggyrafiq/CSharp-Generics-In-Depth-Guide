@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EventHandlingCovarianceExample/1.0.0": {
+        "runtime": {
+          "EventHandlingCovarianceExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EventHandlingCovarianceExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\bin\Debug\net7.0\GenericDelegateBenefitsExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\bin\Debug\net7.0\GenericDelegateBenefitsExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\bin\Debug\net7.0\GenericDelegateBenefitsExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\bin\Debug\net7.0\GenericDelegateBenefitsExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\bin\Debug\net7.0\GenericDelegateBenefitsExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\obj\Debug\net7.0\GenericDelegateBenefitsExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\obj\Debug\net7.0\GenericDelegateBenefitsExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\obj\Debug\net7.0\GenericDelegateBenefitsExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\obj\Debug\net7.0\GenericDelegateBenefitsExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\obj\Debug\net7.0\GenericDelegateBenefitsExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\obj\Debug\net7.0\GenericDelegateBenefitsExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\obj\Debug\net7.0\refint\GenericDelegateBenefitsExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\obj\Debug\net7.0\GenericDelegateBenefitsExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\obj\Debug\net7.0\GenericDelegateBenefitsExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericDelegateBenefitsExample\obj\Debug\net7.0\ref\GenericDelegateBenefitsExample.dll

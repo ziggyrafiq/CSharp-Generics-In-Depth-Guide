@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\bin\Debug\net7.0\ListBeyondBasics.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\bin\Debug\net7.0\ListBeyondBasics.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\bin\Debug\net7.0\ListBeyondBasics.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\bin\Debug\net7.0\ListBeyondBasics.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\bin\Debug\net7.0\ListBeyondBasics.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\refint\ListBeyondBasics.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ref\ListBeyondBasics.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\bin\Debug\net7.0\ListBeyondBasics.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\bin\Debug\net7.0\ListBeyondBasics.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\bin\Debug\net7.0\ListBeyondBasics.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\bin\Debug\net7.0\ListBeyondBasics.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\bin\Debug\net7.0\ListBeyondBasics.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\refint\ListBeyondBasics.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ListBeyondBasics.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ListBeyondBasics\obj\Debug\net7.0\ref\ListBeyondBasics.dll

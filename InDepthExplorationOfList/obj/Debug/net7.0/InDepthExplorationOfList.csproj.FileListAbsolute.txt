@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\bin\Debug\net7.0\InDepthExplorationOfList.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\bin\Debug\net7.0\InDepthExplorationOfList.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\bin\Debug\net7.0\InDepthExplorationOfList.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\bin\Debug\net7.0\InDepthExplorationOfList.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\bin\Debug\net7.0\InDepthExplorationOfList.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\refint\InDepthExplorationOfList.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\ref\InDepthExplorationOfList.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\bin\Debug\net7.0\InDepthExplorationOfList.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\bin\Debug\net7.0\InDepthExplorationOfList.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\bin\Debug\net7.0\InDepthExplorationOfList.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\bin\Debug\net7.0\InDepthExplorationOfList.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\bin\Debug\net7.0\InDepthExplorationOfList.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\refint\InDepthExplorationOfList.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\InDepthExplorationOfList.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InDepthExplorationOfList\obj\Debug\net7.0\ref\InDepthExplorationOfList.dll

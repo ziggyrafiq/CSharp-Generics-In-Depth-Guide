@@ -1,0 +1,15 @@
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\bin\Debug\net7.0\GenericEventsExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\bin\Debug\net7.0\GenericEventsExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\bin\Debug\net7.0\GenericEventsExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\bin\Debug\net7.0\GenericEventsExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\bin\Debug\net7.0\GenericEventsExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\obj\Debug\net7.0\GenericEventsExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\obj\Debug\net7.0\GenericEventsExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\obj\Debug\net7.0\GenericEventsExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\obj\Debug\net7.0\GenericEventsExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\obj\Debug\net7.0\GenericEventsExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\obj\Debug\net7.0\GenericEventsExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\obj\Debug\net7.0\refint\GenericEventsExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\obj\Debug\net7.0\GenericEventsExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\obj\Debug\net7.0\GenericEventsExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventsExample\obj\Debug\net7.0\ref\GenericEventsExample.dll

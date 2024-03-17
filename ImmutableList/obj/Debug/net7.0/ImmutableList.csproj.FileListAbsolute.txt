@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\bin\Debug\net7.0\ImmutableList.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\bin\Debug\net7.0\ImmutableList.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\bin\Debug\net7.0\ImmutableList.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\bin\Debug\net7.0\ImmutableList.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\bin\Debug\net7.0\ImmutableList.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\refint\ImmutableList.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ref\ImmutableList.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\bin\Debug\net7.0\ImmutableList.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\bin\Debug\net7.0\ImmutableList.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\bin\Debug\net7.0\ImmutableList.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\bin\Debug\net7.0\ImmutableList.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\bin\Debug\net7.0\ImmutableList.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\refint\ImmutableList.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ImmutableList.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ImmutableList\obj\Debug\net7.0\ref\ImmutableList.dll

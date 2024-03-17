@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\bin\Debug\net7.0\TrimExcessList.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\bin\Debug\net7.0\TrimExcessList.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\bin\Debug\net7.0\TrimExcessList.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\bin\Debug\net7.0\TrimExcessList.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\bin\Debug\net7.0\TrimExcessList.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\refint\TrimExcessList.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\ref\TrimExcessList.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\bin\Debug\net7.0\TrimExcessList.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\bin\Debug\net7.0\TrimExcessList.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\bin\Debug\net7.0\TrimExcessList.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\bin\Debug\net7.0\TrimExcessList.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\bin\Debug\net7.0\TrimExcessList.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\refint\TrimExcessList.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\TrimExcessList.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\TrimExcessList\obj\Debug\net7.0\ref\TrimExcessList.dll

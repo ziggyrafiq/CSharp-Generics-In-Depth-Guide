@@ -1,0 +1,15 @@
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\obj\Debug\net7.0\GenericEventHandlingExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\obj\Debug\net7.0\GenericEventHandlingExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\obj\Debug\net7.0\GenericEventHandlingExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\obj\Debug\net7.0\GenericEventHandlingExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\obj\Debug\net7.0\GenericEventHandlingExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\bin\Debug\net7.0\GenericEventHandlingExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\bin\Debug\net7.0\GenericEventHandlingExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\bin\Debug\net7.0\GenericEventHandlingExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\bin\Debug\net7.0\GenericEventHandlingExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\bin\Debug\net7.0\GenericEventHandlingExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\obj\Debug\net7.0\GenericEventHandlingExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\obj\Debug\net7.0\refint\GenericEventHandlingExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\obj\Debug\net7.0\GenericEventHandlingExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\obj\Debug\net7.0\GenericEventHandlingExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\GenericEventHandlingExample\obj\Debug\net7.0\ref\GenericEventHandlingExample.dll

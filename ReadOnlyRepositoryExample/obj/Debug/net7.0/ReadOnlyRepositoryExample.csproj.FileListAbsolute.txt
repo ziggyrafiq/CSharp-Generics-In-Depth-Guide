@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\bin\Debug\net7.0\ReadOnlyRepositoryExample.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\bin\Debug\net7.0\ReadOnlyRepositoryExample.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\bin\Debug\net7.0\ReadOnlyRepositoryExample.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\bin\Debug\net7.0\ReadOnlyRepositoryExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\bin\Debug\net7.0\ReadOnlyRepositoryExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\refint\ReadOnlyRepositoryExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ref\ReadOnlyRepositoryExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\bin\Debug\net7.0\ReadOnlyRepositoryExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\bin\Debug\net7.0\ReadOnlyRepositoryExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\bin\Debug\net7.0\ReadOnlyRepositoryExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\bin\Debug\net7.0\ReadOnlyRepositoryExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\bin\Debug\net7.0\ReadOnlyRepositoryExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\refint\ReadOnlyRepositoryExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ReadOnlyRepositoryExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ReadOnlyRepositoryExample\obj\Debug\net7.0\ref\ReadOnlyRepositoryExample.dll

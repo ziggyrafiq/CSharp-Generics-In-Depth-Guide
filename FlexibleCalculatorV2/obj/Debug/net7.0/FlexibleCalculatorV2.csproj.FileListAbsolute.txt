@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\bin\Debug\net7.0\FlexibleCalculatorV2.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\bin\Debug\net7.0\FlexibleCalculatorV2.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\bin\Debug\net7.0\FlexibleCalculatorV2.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\bin\Debug\net7.0\FlexibleCalculatorV2.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\bin\Debug\net7.0\FlexibleCalculatorV2.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\refint\FlexibleCalculatorV2.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\ref\FlexibleCalculatorV2.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\bin\Debug\net7.0\FlexibleCalculatorV2.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\bin\Debug\net7.0\FlexibleCalculatorV2.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\bin\Debug\net7.0\FlexibleCalculatorV2.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\bin\Debug\net7.0\FlexibleCalculatorV2.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\bin\Debug\net7.0\FlexibleCalculatorV2.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\refint\FlexibleCalculatorV2.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\FlexibleCalculatorV2.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\FlexibleCalculatorV2\obj\Debug\net7.0\ref\FlexibleCalculatorV2.dll

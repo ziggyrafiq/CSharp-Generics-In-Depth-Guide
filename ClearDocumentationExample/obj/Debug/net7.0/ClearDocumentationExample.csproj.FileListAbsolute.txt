@@ -1,0 +1,15 @@
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\bin\Debug\net7.0\ClearDocumentationExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\bin\Debug\net7.0\ClearDocumentationExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\bin\Debug\net7.0\ClearDocumentationExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\bin\Debug\net7.0\ClearDocumentationExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\bin\Debug\net7.0\ClearDocumentationExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\obj\Debug\net7.0\ClearDocumentationExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\obj\Debug\net7.0\ClearDocumentationExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\obj\Debug\net7.0\ClearDocumentationExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\obj\Debug\net7.0\ClearDocumentationExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\obj\Debug\net7.0\ClearDocumentationExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\obj\Debug\net7.0\ClearDocumentationExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\obj\Debug\net7.0\refint\ClearDocumentationExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\obj\Debug\net7.0\ClearDocumentationExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\obj\Debug\net7.0\ClearDocumentationExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\ClearDocumentationExample\obj\Debug\net7.0\ref\ClearDocumentationExample.dll

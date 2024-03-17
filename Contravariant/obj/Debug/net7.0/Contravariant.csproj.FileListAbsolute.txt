@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\bin\Debug\net7.0\Contravariant.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\bin\Debug\net7.0\Contravariant.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\bin\Debug\net7.0\Contravariant.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\bin\Debug\net7.0\Contravariant.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\bin\Debug\net7.0\Contravariant.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\refint\Contravariant.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\ref\Contravariant.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\bin\Debug\net7.0\Contravariant.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\bin\Debug\net7.0\Contravariant.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\bin\Debug\net7.0\Contravariant.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\bin\Debug\net7.0\Contravariant.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\bin\Debug\net7.0\Contravariant.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\refint\Contravariant.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\Contravariant.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\Contravariant\obj\Debug\net7.0\ref\Contravariant.dll

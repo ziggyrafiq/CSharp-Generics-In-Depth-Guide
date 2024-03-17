@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\bin\Debug\net7.0\CovarianceUnexpectedBehaviorExample.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\bin\Debug\net7.0\CovarianceUnexpectedBehaviorExample.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\bin\Debug\net7.0\CovarianceUnexpectedBehaviorExample.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\bin\Debug\net7.0\CovarianceUnexpectedBehaviorExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\bin\Debug\net7.0\CovarianceUnexpectedBehaviorExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\refint\CovarianceUnexpectedBehaviorExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\ref\CovarianceUnexpectedBehaviorExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\bin\Debug\net7.0\CovarianceUnexpectedBehaviorExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\bin\Debug\net7.0\CovarianceUnexpectedBehaviorExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\bin\Debug\net7.0\CovarianceUnexpectedBehaviorExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\bin\Debug\net7.0\CovarianceUnexpectedBehaviorExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\bin\Debug\net7.0\CovarianceUnexpectedBehaviorExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\refint\CovarianceUnexpectedBehaviorExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\CovarianceUnexpectedBehaviorExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovarianceUnexpectedBehaviorExample\obj\Debug\net7.0\ref\CovarianceUnexpectedBehaviorExample.dll

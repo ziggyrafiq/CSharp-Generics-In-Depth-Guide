@@ -1,0 +1,15 @@
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\bin\Debug\net7.0\MeaningfulConstraintExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\bin\Debug\net7.0\MeaningfulConstraintExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\bin\Debug\net7.0\MeaningfulConstraintExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\bin\Debug\net7.0\MeaningfulConstraintExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\bin\Debug\net7.0\MeaningfulConstraintExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\obj\Debug\net7.0\MeaningfulConstraintExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\obj\Debug\net7.0\MeaningfulConstraintExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\obj\Debug\net7.0\MeaningfulConstraintExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\obj\Debug\net7.0\MeaningfulConstraintExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\obj\Debug\net7.0\MeaningfulConstraintExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\obj\Debug\net7.0\MeaningfulConstraintExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\obj\Debug\net7.0\refint\MeaningfulConstraintExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\obj\Debug\net7.0\MeaningfulConstraintExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\obj\Debug\net7.0\MeaningfulConstraintExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\MeaningfulConstraintExample\obj\Debug\net7.0\ref\MeaningfulConstraintExample.dll

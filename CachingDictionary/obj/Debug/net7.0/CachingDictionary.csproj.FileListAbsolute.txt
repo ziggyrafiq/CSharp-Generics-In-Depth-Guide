@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\bin\Debug\net7.0\CachingDictionary.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\bin\Debug\net7.0\CachingDictionary.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\bin\Debug\net7.0\CachingDictionary.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\bin\Debug\net7.0\CachingDictionary.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\bin\Debug\net7.0\CachingDictionary.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\refint\CachingDictionary.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\ref\CachingDictionary.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\bin\Debug\net7.0\CachingDictionary.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\bin\Debug\net7.0\CachingDictionary.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\bin\Debug\net7.0\CachingDictionary.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\bin\Debug\net7.0\CachingDictionary.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\bin\Debug\net7.0\CachingDictionary.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\refint\CachingDictionary.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\CachingDictionary.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CachingDictionary\obj\Debug\net7.0\ref\CachingDictionary.dll

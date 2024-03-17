@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\bin\Debug\net7.0\DisplayServiceExample.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\bin\Debug\net7.0\DisplayServiceExample.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\bin\Debug\net7.0\DisplayServiceExample.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\bin\Debug\net7.0\DisplayServiceExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\bin\Debug\net7.0\DisplayServiceExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\refint\DisplayServiceExample.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\ref\DisplayServiceExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\bin\Debug\net7.0\DisplayServiceExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\bin\Debug\net7.0\DisplayServiceExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\bin\Debug\net7.0\DisplayServiceExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\bin\Debug\net7.0\DisplayServiceExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\bin\Debug\net7.0\DisplayServiceExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\refint\DisplayServiceExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\DisplayServiceExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\DisplayServiceExample\obj\Debug\net7.0\ref\DisplayServiceExample.dll

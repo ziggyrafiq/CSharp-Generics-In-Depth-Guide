@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\bin\Debug\net7.0\CovariantInterface.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\bin\Debug\net7.0\CovariantInterface.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\bin\Debug\net7.0\CovariantInterface.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\bin\Debug\net7.0\CovariantInterface.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\bin\Debug\net7.0\CovariantInterface.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\refint\CovariantInterface.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\ref\CovariantInterface.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\bin\Debug\net7.0\CovariantInterface.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\bin\Debug\net7.0\CovariantInterface.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\bin\Debug\net7.0\CovariantInterface.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\bin\Debug\net7.0\CovariantInterface.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\bin\Debug\net7.0\CovariantInterface.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\refint\CovariantInterface.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\CovariantInterface.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantInterface\obj\Debug\net7.0\ref\CovariantInterface.dll

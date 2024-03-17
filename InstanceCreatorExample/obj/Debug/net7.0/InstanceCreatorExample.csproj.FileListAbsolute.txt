@@ -1,0 +1,15 @@
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\bin\Debug\net7.0\InstanceCreatorExample.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\bin\Debug\net7.0\InstanceCreatorExample.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\bin\Debug\net7.0\InstanceCreatorExample.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\bin\Debug\net7.0\InstanceCreatorExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\bin\Debug\net7.0\InstanceCreatorExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\obj\Debug\net7.0\InstanceCreatorExample.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\obj\Debug\net7.0\InstanceCreatorExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\obj\Debug\net7.0\InstanceCreatorExample.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\obj\Debug\net7.0\InstanceCreatorExample.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\obj\Debug\net7.0\InstanceCreatorExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\obj\Debug\net7.0\InstanceCreatorExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\obj\Debug\net7.0\refint\InstanceCreatorExample.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\obj\Debug\net7.0\InstanceCreatorExample.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\obj\Debug\net7.0\InstanceCreatorExample.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\InstanceCreatorExample\obj\Debug\net7.0\ref\InstanceCreatorExample.dll

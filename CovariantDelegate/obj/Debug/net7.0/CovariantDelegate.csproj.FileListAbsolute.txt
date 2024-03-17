@@ -1,0 +1,30 @@
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.csproj.AssemblyReference.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.AssemblyInfoInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.AssemblyInfo.cs
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.csproj.CoreCompileInputs.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\bin\Debug\net7.0\CovariantDelegate.exe
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\bin\Debug\net7.0\CovariantDelegate.deps.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\bin\Debug\net7.0\CovariantDelegate.runtimeconfig.json
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\bin\Debug\net7.0\CovariantDelegate.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\bin\Debug\net7.0\CovariantDelegate.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\refint\CovariantDelegate.dll
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.pdb
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.genruntimeconfig.cache
+E:\GitHub\_Books to Complete Code\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\ref\CovariantDelegate.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\bin\Debug\net7.0\CovariantDelegate.exe
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\bin\Debug\net7.0\CovariantDelegate.deps.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\bin\Debug\net7.0\CovariantDelegate.runtimeconfig.json
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\bin\Debug\net7.0\CovariantDelegate.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\bin\Debug\net7.0\CovariantDelegate.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.csproj.AssemblyReference.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.AssemblyInfoInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.AssemblyInfo.cs
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.csproj.CoreCompileInputs.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\refint\CovariantDelegate.dll
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.pdb
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\CovariantDelegate.genruntimeconfig.cache
+E:\GitHub\Books\CSharp-Generics-In-Depth-Guide\CovariantDelegate\obj\Debug\net7.0\ref\CovariantDelegate.dll
